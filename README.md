@@ -1,8 +1,12 @@
 # Plasma-v
 DIY CNC Plasma cutter
 
-
 [![Alt text](https://img.youtube.com/vi/erONL2Bogno/0.jpg)](https://www.youtube.com/watch?v=erONL2Bogno)
+
+
+TODO:
+Complete Bill of Materials
+
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
